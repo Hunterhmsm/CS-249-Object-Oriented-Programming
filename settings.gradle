@@ -1,0 +1,19 @@
+rootProject.name = 'cs_249'
+
+include ':coretest'
+include ':howdy'
+include ':howdyfx'
+
+include ':assign01'
+include ':exercises02'
+include ':exercises03'
+include ':assign02'
+include ':assign03'
+include ':assign04'
+include ':assign05'
+include ':assign06'
+include ':assign07'
+
+include ':profexercises02'
+include ':profexercises'
+
